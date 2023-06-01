@@ -1,0 +1,108 @@
+body{
+    background-image: url("../IMG/solc.png");
+  }
+  input[type=text], select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      opacity: 80%;
+      border-radius: 4px;
+      box-sizing: border-box;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 20px;
+      
+    }
+    
+    input[type=submit] {
+      width: 50%;
+      background-color: rgb(26, 26, 26);
+      color: white;
+      padding: 20px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 20px;
+      display: block;
+      padding: 0.5rem 1rem;
+      width: 200px;
+      margin: 0 auto;
+  
+     }
+     input[type=date] {
+      width: 100%;
+      background-color:  white;
+      color:rgb(26, 26, 26);
+      padding: 20px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 20px;
+      display: block;
+      padding: 0.5rem 1rem;
+      width: 100%;
+      margin: 0 auto;
+  
+     }
+     input[type=email] {
+      width: 100%;
+      background-color:  white;
+      color:rgb(26, 26, 26);
+      padding: 20px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 20px;
+      display: block;
+      padding: 0.5rem 1rem;
+      width: 100%;
+      margin: 0 auto;
+   
+     }
+    
+    input[type=number] {
+     width: 100%;
+     background-color:  white;
+     color:rgb(26, 26, 26);
+     padding: 20px 20px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     font-family: 'Bebas Neue', sans-serif;
+     font-size: 20px;
+     display: block;
+     padding: 0.5rem 1rem;
+     width: 100%;
+     margin: 0 auto;
+  
+    }
+     
+    form{
+      display: block;
+      padding: 0.5rem 1rem;
+      width: 500px;
+      margin: 0 auto;
+      border-radius: 5px;
+      background-color: #fccf10;
+      padding: 50px;
+      font-family: 'Bebas Neue', sans-serif; image-orientation: unset;
+      font-size: 20px;
+    }
+
+    .mapa{
+    display: block;
+      padding: 0.5rem 1rem;
+      width: 500px;
+      margin: 0 auto;
+      border-radius: 5px;
+      background-color: #fccf10;
+      padding: 50px;
+      font-family: 'Bebas Neue', sans-serif; image-orientation: unset;
+      font-size: 20px;
+    }
+  
+  
